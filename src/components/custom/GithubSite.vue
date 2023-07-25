@@ -1,8 +1,8 @@
 <template>
   <div class="text-neutral-400">
-    <span>Star on</span>
-    <a href="https://github.com/Chanzhaoyu/chatgpt-bot" target="_blank" class="text-blue-500">
-      GitHub
+    <span>尝试</span>
+    <a href="https://donate.ianime.one" target="_blank" class="text-blue-500">
+      捐助
     </a>
   </div>
 </template>
