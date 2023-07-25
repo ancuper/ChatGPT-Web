@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://gpt.awaland.info/avatar.jpg',
+      avatar: 'https://tupian.qqw21.com/article/UploadPic/2020-10/2020102111105126744.jpg',
       name: 'iAnime - User',
-      description: '我喜欢这里和动漫:)',
+      description: '我喜欢这里，还有动漫。',
     },
   }
 }
