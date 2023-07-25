@@ -481,7 +481,7 @@ onUnmounted(() => {
           <template v-if="!dataSources.length">
             <div class="flex items-center justify-center mt-4 text-center text-neutral-300">
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
-              <span>Aha~</span>
+              <span>Hey，欢迎来到iAnimeGPT！</br>在这里，您可以享受一切纯净的感觉，以及高质量的接入。</br>如果您想支持iAnimeGPT持续运行，你可以尝试捐助我们,</br>如果您有被封锁或者未被封锁但是想捐出的账户，请也告诉我们</br>捐助：https://donate.ianime.one/</span>
             </div>
           </template>
           <template v-else>
