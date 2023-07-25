@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
+      avatar: 'https://gpt.awaland.info/avatar.jpg',
       name: 'iAnime - User',
-      description: '我喜欢这里，我更喜欢动漫:)',
+      description: '我喜欢这里和动漫:)',
     },
   }
 }
