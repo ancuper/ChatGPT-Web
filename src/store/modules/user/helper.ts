@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://tupian.qqw21.com/article/UploadPic/2020-10/2020102111105126744.jpg',
+      avatar: 'https://www.ianime.one/favicon.png',
       name: 'iAnime - User',
       description: '我喜欢这里，还有动漫。',
     },
