@@ -52,7 +52,7 @@ onMounted(() => {
           如果你觉得此项目对你有帮助，请考虑
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://donate.ianime.one"
+            href="https://ianime.one/donate.html"
             target="_blank"
           >
 						赞助我们
